@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SkillFactory.Module7.Project.Order&lt;TDelivery, TCustomer, TNumber&gt;" Collapsed="true">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAgAAAAAAgAACAAEAAAAAAAABAAABAAgAQBAAAAAw=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Shop" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Company" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAQAQAAAAAAAACAAAAAAAACAA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.ShippingService" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>ShippingService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Products.Product" Collapsed="true">
+    <Position X="15.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAAQIAAAASAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Products.Drums" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIACAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Drums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Products.ElectricGuitar" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\ElectricGuitar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Products.Strings" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAABAAAAAAAIAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Strings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Deliveries.Delivery&lt;TCustomer&gt;" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAkAAAEAAQAAAAAAAAQAAAgAAAAAAAAAAAAABAEAAAA=</HashCode>
+      <FileName>Deliveries\Delivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Deliveries.HomeDelivery&lt;TCustomer&gt;" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deliveries\HomeDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Deliveries.PickPointDelivery&lt;TCustomer&gt;" Collapsed="true">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deliveries\PickPointDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Deliveries.ShopDelivery&lt;TCustomer&gt;" Collapsed="true">
+    <Position X="6.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAACAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Deliveries\ShopDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Person" Collapsed="true">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAQACAAAAAAAEAAQAQAAAAAAAACAAAAAAAAAAk=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Courier" Collapsed="true">
+    <Position X="12.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABAAAAAA=</HashCode>
+      <FileName>Courier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Customers.Customer" Collapsed="true">
+    <Position X="8.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customers\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Customers.BusinessCustomer" Collapsed="true">
+    <Position X="6" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABAAAAAA=</HashCode>
+      <FileName>Customers\BusinessCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillFactory.Module7.Project.Customers.PrivateCustomer" Collapsed="true">
+    <Position X="8.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customers\PrivateCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
